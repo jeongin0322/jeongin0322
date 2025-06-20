@@ -24,4 +24,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
   <img src="https://img.shields.io/badge/Redmine-B32024?style=for-the-badge&logo=redmine&logoColor=white">
+
+  <hr height="0.01em">
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongin0322)](https://github.com/jeongin0322)
 </div>
