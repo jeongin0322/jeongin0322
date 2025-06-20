@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongin0322)](https://github.com/anuraghazra/github-readme-stats)
+
 <img src="https://capsule-render.vercel.app/api?type=Blur&color=0:209cff,100:68e0cf&fontColor=FFFFFF&height=300&section=header&text=Welcome&nbsp;to&nbsp;JeongIn's&nbsp;GitHub&fontSize=50&stroke=8acafd&strokeWidth=2"/>
 <div align=center><h2>📚 STACKS 📚</h2></div>
 
@@ -6,17 +8,16 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  
   <br>
-
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">  
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-  <br>
   
+  <br>
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-
-
+  
   <br>
   <br>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
@@ -25,6 +26,5 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
   <img src="https://img.shields.io/badge/Redmine-B32024?style=for-the-badge&logo=redmine&logoColor=white">
 
-  <hr height="0.01em">
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongin0322)](https://github.com/jeongin0322)
+  ![jeongIn's GitHub status](https://github-readme-stats.vercel.app/api?username=jeongin0322&include_all_commits=true&show_icons=true&theme=radical&count_private=true)
 </div>
