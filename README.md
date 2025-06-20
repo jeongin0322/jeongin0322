@@ -1,5 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongin0322)](https://github.com/anuraghazra/github-readme-stats)
-
 <img src="https://capsule-render.vercel.app/api?type=Blur&color=0:209cff,100:68e0cf&fontColor=FFFFFF&height=300&section=header&text=Welcome&nbsp;to&nbsp;JeongIn's&nbsp;GitHub&fontSize=50&stroke=8acafd&strokeWidth=2"/>
 <div align=center><h2>📚 STACKS 📚</h2></div>
 
@@ -25,6 +23,4 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
   <img src="https://img.shields.io/badge/Redmine-B32024?style=for-the-badge&logo=redmine&logoColor=white">
-
-  ![jeongIn's GitHub status](https://github-readme-stats.vercel.app/api?username=jeongin0322&include_all_commits=true&show_icons=true&theme=radical&count_private=true)
 </div>
